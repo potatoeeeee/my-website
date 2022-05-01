@@ -1,0 +1,93 @@
+h2 {
+    color: gold;
+    text-align: center;
+
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+img {
+    justify-content: center;
+}
+
+table {
+    text-align: center;
+}
+
+#blue-p {
+    color: blue;
+}
+
+#navbar {
+    background-color: darksalmon;
+    border-style: solid;
+    border-color: black;
+}
+
+.stats {
+    color: rgb(195, 255, 195);
+}
+
+header {
+    background-color: rgb(0, 247, 255);
+    color: coral;
+    font-weight: bold;
+    font-size: 30px
+}
+
+.navbar {
+    border: solid skyblue;
+    background-color: chocolate;
+    font: 10px;
+    position: sticky;
+    top: 0px;
+}
+
+.profile {
+    background-color: darkred;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(0, 0, 255);
+    color: aliceblue;
+    font-size: 12 px;
+    border: 3px solid white;
+    padding-left: 200px;
+}
+
+.even-row {
+    background-color: greenyellow;
+}
+
+:hover {
+    color: blueviolet;
+}
+
+.dropdown {
+    display: inline-block;
+    box-shadow: 5px 5px 10px rebeccapurple;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: aliceblue;
+    color: darkgreen;
+    padding: 5px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.active {
+    background-color: pink;
+}
